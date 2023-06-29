@@ -1,0 +1,11 @@
+.sidebuttons{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/* .sidebtngrp{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+} */
